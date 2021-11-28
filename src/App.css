@@ -1,0 +1,9 @@
+.App{
+    position: relative;
+    width: 450px;
+    height:600px;
+    margin:0 auto;
+    border: solid 1px black;
+    /* display:flex; */
+    overflow: auto; 
+}

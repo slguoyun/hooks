@@ -1,0 +1,16 @@
+.ChangeDialog{
+    position:absolute;
+    top:100px;
+    left:100px;
+    z-index:1000;
+    width: 200px;
+    height: 200px;
+    border: green solid 1px;
+    overflow: auto;
+    background-color: cornsilk;
+    opacity: 1;
+}
+
+.ChangeDialog button{
+    margin-left: 80px;
+}

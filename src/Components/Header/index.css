@@ -1,0 +1,19 @@
+.Header{
+    /* width: 100%; */
+    width: 450px;
+    height: 80px;
+    border: 1px black solid;
+    text-align: center;
+    line-height:80px;
+    position: fixed;
+    opacity:1;
+    background-color: blanchedalmond;
+    vertical-align:middle;
+
+}
+
+.icon{
+    margin-top: 100px;
+    vertical-align:middle;
+}
+

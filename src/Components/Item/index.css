@@ -1,0 +1,20 @@
+.Item{
+    height: 30px;
+    border: blanchedalmond solid 1px;
+    line-height: 30px;
+    /* overflow: hidden; */
+    
+}
+.Item_input{
+    margin-top: 8px;
+    margin-right: 20px;
+    float: left;
+}
+.Item_context{
+    float: left;
+    width: 250px;
+    height: 25px;
+    border: springgreen solid 1px;
+    overflow: hidden;
+    margin-right: 20px;
+}
